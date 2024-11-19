@@ -1,5 +1,5 @@
 # transCAE: Enhancing cell type annotation in single-cell RNA-seq data with transfer learning and convolutional autoencoder
-![image text](https://github.com/BryantLuffy/transCAE/blob/master/Overview%20plot.jpg)
+![image text](https://github.com/BryantLuffy/transCAE/blob/master/transCAE.png)
 
 ## Description
 Single-cell RNA-seq	(scRNA-seq) analysis holds significant potential for addressing various biological questions, with one key application being the annotation of query datasets with unknown cell types using well-annotated external reference datasets. However, the performance of existing supervised or semi-supervised methods largely depends on the quality of source data. Furthermore, these methods often struggle with the batch effects arising from different platforms when handling multiple reference or query datasets, making precise annotation challenging. 
